@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/zubkov2/static/css/main.8f0190bf.css",
+    "main.js": "/zubkov2/static/js/main.5eb63846.js",
+    "static/media/video.gif": "/zubkov2/static/media/video.70d69ea64b0e47763bc3.gif",
+    "static/media/review2.png": "/zubkov2/static/media/review2.f2d46dc4aa63970ceac8.png",
+    "static/media/review1.png": "/zubkov2/static/media/review1.d9a6643745283b79b582.png",
+    "static/media/review3.png": "/zubkov2/static/media/review3.5dc484df8627946c955e.png",
+    "static/media/back.webp": "/zubkov2/static/media/back.107aaa5104d4c77d8ca6.webp",
+    "index.html": "/zubkov2/index.html",
+    "static/media/point.svg": "/zubkov2/static/media/point.97f0704c47c35778167b9c4dd293901d.svg",
+    "main.8f0190bf.css.map": "/zubkov2/static/css/main.8f0190bf.css.map",
+    "main.5eb63846.js.map": "/zubkov2/static/js/main.5eb63846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0190bf.css",
+    "static/js/main.5eb63846.js"
+  ]
+}
