@@ -1,6 +1,7 @@
 {
   "name": "oreshnik",
   "version": "0.1.0",
+  "homepage": "https://artem7841/zubkov2.github.io/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
